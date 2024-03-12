@@ -12,5 +12,3 @@ Input:
 Output
 
    simple interest = p*t*r
-
-2024 XYZ, Inc.
